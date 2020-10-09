@@ -8,7 +8,7 @@
 간단히 말해, ''**알고리즘**"은 <span style=color:red>어떠한 목적을 위해 어떻게 코드를 구성할지에 대한 고민</span>이고
 "**자료구조**"란 <span style=color:red>데이터를 어떻게 저장하고 어떻게 꺼내올 것인가에 대한 고민</span>이다. 
 
-<img src="http://postfiles9.naver.net/MjAxOTA1MDFfMTk0/MDAxNTU2Njg2MTQzNzg3.ZsvtPxkjyOSfrQUQdLlK7Rrwve70BYqRPfQXIaqaDN0g.5kHRfOd436gY4XF84RlpRSyL28cxFh9CHmdYbNVS7pwg.PNG.dilrong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.png?type=w773" width="400px"/>
+<p align="center"><img src="http://postfiles9.naver.net/MjAxOTA1MDFfMTk0/MDAxNTU2Njg2MTQzNzg3.ZsvtPxkjyOSfrQUQdLlK7Rrwve70BYqRPfQXIaqaDN0g.5kHRfOd436gY4XF84RlpRSyL28cxFh9CHmdYbNVS7pwg.PNG.dilrong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.png?type=w773" width="400px"/></p>
 
 
 
