@@ -11,6 +11,7 @@
 ### 1.  자료구조
 
 - [자료구조란 무엇인가?](https://github.com/cjy0019/Data_Structure/blob/master/About.md)
+- [빅오 표기법](https://github.com/cjy0019/Data_Structure/blob/master/BigO%20notation.md)
 
 ### 2. 선형 구조(Linear Structure)
 
