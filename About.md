@@ -3,18 +3,18 @@
 ## 1. 자료구조란??
 
 사전 의미의 자료구조는 컴퓨터 사이언스에서 효율적인 접근 및 수정을 가능케 하는 자료의 조직, 관리, 저장을 의미한다.
-너무 어렵게 생각하지말자!
+너무 어렵게 생각하지 말자!
 
-간단히 말해, **"알고리즘"**은 <span style=color:pink>어떠한 목적을 위해 어떻게 코드를 구성할지에 대한 고민</span>이고
- **"자료구조"**란 <span style=color:pink>데이터를 어떻게 저장하고 어떻게 꺼내올 것인가에 대한 고민</span>이다. 
+간단히 말해, ''**알고리즘**"은 <span style=color:red>어떠한 목적을 위해 어떻게 코드를 구성할지에 대한 고민</span>이고
+"**자료구조**"란 <span style=color:red>데이터를 어떻게 저장하고 어떻게 꺼내올 것인가에 대한 고민</span>이다. 
 
-<img src="http://postfiles9.naver.net/MjAxOTA1MDFfMTk0/MDAxNTU2Njg2MTQzNzg3.ZsvtPxkjyOSfrQUQdLlK7Rrwve70BYqRPfQXIaqaDN0g.5kHRfOd436gY4XF84RlpRSyL28cxFh9CHmdYbNVS7pwg.PNG.dilrong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.png?type=w773" style="zoom:50%;" />
+<img src="http://postfiles9.naver.net/MjAxOTA1MDFfMTk0/MDAxNTU2Njg2MTQzNzg3.ZsvtPxkjyOSfrQUQdLlK7Rrwve70BYqRPfQXIaqaDN0g.5kHRfOd436gY4XF84RlpRSyL28cxFh9CHmdYbNVS7pwg.PNG.dilrong/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.png?type=w773" width="400px"/>
 
 
 
 ## 2. 자료구조의 종류
 
-### - 선형 구조(linear structure)
+### 선형 구조(linear structure)
 
 - '선' 모양처럼 순차적으로 데이터를 저장하는 방식을 말한다. 
 - <u>하나의 데이터 바로 다음에 또 다른 하나의 데이터가 있는</u> 1:1 구조를 말한다.
@@ -25,7 +25,7 @@
 
 
 
-### - 비선형 구조(nonlinear structure)
+### 비선형 구조(nonlinear structure)
 
 - '선'이 아닌 구조 처럼 하나의 자료뒤에 여러 개의 자료가 있을 수 있는 방식을 말한다.
 - 선형 구조와 다르게 <u>하나의 데이터가 여러 개의 데이터를 가리킬 수 있는 1:n</u>구조를 말한다.
